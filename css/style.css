@@ -22,9 +22,5 @@
     color: black;
 }
 
-.header_area .main-menu .navbar .navbar-nav .navbar-center {
-    position: absolute;
-    left: 50%;
-    transform: translatex(-50%);
-}
+
 
