@@ -22,8 +22,9 @@
     color: black;
 }
 
-.navbar-nav.navbar-center {
+.header_area .main-menu .navbar .navbar-nav .navbar-center {
     position: absolute;
     left: 50%;
     transform: translatex(-50%);
 }
+
