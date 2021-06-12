@@ -1,2 +1,29 @@
 /*import fonts from fonts.css file*/
 @import url(./fonts.css);
+
+
+
+/* start navigation*/
+
+/* padding to sushi image */
+.header_area .main-menu .navbar .navbar-brand{ 
+    padding: 0 2rem 0 5rem;
+}
+
+/* padding to left and right side of navbar */
+.header_area .main-menu .navbar{
+    padding: 1rem 20rem;
+}
+/*bold text on navbar*/
+.header_area .main-menu .nav-item .nav-link{
+    font-family:"Roboto", Lucida Sans;
+    font-weight: 450;
+    padding: 1.7rem;
+    color: black;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
