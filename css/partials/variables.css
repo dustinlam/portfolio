@@ -12,7 +12,7 @@ html, body {
 
 :root{
     --primary-color: #4458dc;
-    --primary-colot2: #854fee;
+    --primary-color2: #854fee;
     --title-color: #141313;
     --text-color: #777777;
     --border-color: #201f1f17;
@@ -21,5 +21,5 @@ html, body {
     --box-color: 0px 10px 30px rgba(57,56,61,0.205);
 
     /* font family variables */
-    --roboto:'Roboto', cursive;
+    --roboto:'Roboto', Lucida Sans;
 }
